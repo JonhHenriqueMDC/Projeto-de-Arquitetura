@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Unifor_logo.png/800px-Unifor_logo.png](https://unifor.br/documents/6328720/6328860/LOGO.png/1c4c4df9-5993-8555-a1f5-2c7a4144db31?t=1679086830686)" 
+  <img src="https://imgur.com/a/YGuIssV" 
        alt="Logo da Universidade" width="350"/>
 </p>
 
